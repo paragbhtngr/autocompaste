@@ -13,6 +13,8 @@ Changes made to the experimental setup
 
 Installing and running the files follows the exact same protocol. Refer to the instructions below for further documentation.
 
+The completed assignment can now be viewed on https://paragbhtngr.github.io/autocompaste
+
 ## Installation
 
 You can either download as a zip file or clone this repository to get it running on your computer.
