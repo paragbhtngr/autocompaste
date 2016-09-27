@@ -113,7 +113,7 @@
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "windows": 10,
-            "data_file": "data/texts-m.json",
+            "data_file": "data/texts-l.json",
             "stimuli": "article is usually considered"
         },
 
@@ -122,7 +122,7 @@
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "windows": 10,
-            "data_file": "data/texts-m.json",
+            "data_file": "data/texts-l.json",
             "stimuli": "just as many languages express"
         },
 
@@ -131,7 +131,7 @@
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "windows": 10,
-            "data_file": "data/texts-m.json",
+            "data_file": "data/texts-l.json",
             "stimuli": "obligatory nature of articles"
         },
 
@@ -355,7 +355,7 @@
             "technique": "TRADITIONAL",
             "granularity": "phrase",
             "windows": 10,
-            "data_file": "data/texts-m.json",
+            "data_file": "data/texts-l.json",
             "stimuli": "article is usually considered"
         },
 
@@ -364,7 +364,7 @@
             "technique": "TRADITIONAL",
             "granularity": "phrase",
             "windows": 10,
-            "data_file": "data/texts-m.json",
+            "data_file": "data/texts-l.json",
             "stimuli": "just as many languages express"
         },
 
@@ -373,7 +373,7 @@
             "technique": "TRADITIONAL",
             "granularity": "phrase",
             "windows": 10,
-            "data_file": "data/texts-m.json",
+            "data_file": "data/texts-l.json",
             "stimuli": "obligatory nature of articles"
         },
 
